@@ -19,7 +19,7 @@ Clone o projeto para a sua máquina<br>
 ```bash
 git@github.com:ricardo-werner/LAB365-FullStack-ToDo-App-React.git
 ```
-Obs - necessário configurar SSH (https://www.youtube.com/watch?v=n-H1eFSsugo)
+Obs: necessário configurar SSH [(veja como clicando aqui)](https://www.youtube.com/watch?v=n-H1eFSsugo)
 
 Instale as dependências.<br>
 Nota - para rodar este comando é necessário ter instalado no computador o NodeJS e o Node Package Manager(NPM)
